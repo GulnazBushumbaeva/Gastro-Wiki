@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus+Slab');
+@import url('https://fonts.googleapis.com/css?family=Athiti:400,500,600');
+* {
+  box-sizing: border-box;
+}
+.fotter{
+  background-color: #333;
+}
+h5 {
+  font-weight: bold;
+  font-style: italic;
+}
+h3 {
+  font-family: 'Athiti';
+}
+h4 {
+  font-family: 'Arbutus Slab';
+}
+
+h1 {
+	text-align: center;
+    font-size: 30px;
+    color: #000000;
+}
+.citata {
+	text-align: center;
+}
+.card {
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #feefd7;
+
+}
+
+.list{
+	width: 300px;
+	height: 200px;
+	font-size: 21px;
+}
+.sea-img{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	top: -205px;
+	left: 350px;
+
+
+}
+.zhaz {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.bg-mycolor {
+	background-color: #e6c67e;
+}
+
+.r-box{
+	display: flex;
+	justify-content: space-around;
+	margin: 0 0 0 0;
+}
+.cafeler {
+	display: flex;
+	justify-content: space-around;
+	margin: 0 0 0 0;
+}
+
+.cafeler h4{
+	width: 450px;
+}
+.cafeler b{
+	margin-left: 30px;
+}
+.carusel{
+	align-items: center;
